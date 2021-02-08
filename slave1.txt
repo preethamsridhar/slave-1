@@ -1,1 +1,2 @@
 This is slave-1 first file
+Add the next commit
